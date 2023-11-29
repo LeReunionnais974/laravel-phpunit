@@ -13,6 +13,18 @@ Mini application de gestion de stock avec rôles
 ```
 
 ```bash
+  composer install
+```
+
+```bash
+  cp .env.example .env
+```
+
+```bash
+  php artisan key:generate
+```
+
+```bash
   npm install
   npm run dev
 ```
